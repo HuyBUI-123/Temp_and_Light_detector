@@ -1,0 +1,4 @@
+*/node_modules/*
+
+# Local environment files (real values). The *.sample templates stay tracked.
+.env
